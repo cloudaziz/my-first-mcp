@@ -1,0 +1,11 @@
+{
+  "name": "my-first-mcp",
+  "version": "0.0.1",
+  "description": "Learning MCP from scratch",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
